@@ -17,6 +17,8 @@
      ./ghostty/ghostty.nix
      ./fish.nix
      ./starship.nix
+     ./zed.nix
+     ./mpv/mpv.nix
   ];
 
   # Enable Home Manager to manage itself (recommended for standalone installations)
